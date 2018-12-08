@@ -1,0 +1,19 @@
+<p>
+  Employee Details Information!
+</p>
+
+<ag-grid-angular
+style="width:1000px; height:240px;"
+class="ag-theme-balham"
+[columnDefs] = "columnDefs"
+[enableSorting] = "true"
+[enableFilter] = "true"
+[animateRows] = "true"
+[pagination] = "true"
+[enableColResize] = "true"
+[paginationPageSize] = "5"
+(gridReady)="onGridReady($event)"
+(rowClicked)="onRowClicked($event)">
+>
+
+</ag-grid-angular>

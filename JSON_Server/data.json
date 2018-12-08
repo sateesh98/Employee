@@ -1,0 +1,85 @@
+{
+  "employees": [
+    {
+      "firstName": "Priya",
+      "lastName": "darsini",
+      "email": "priya.darsini@gmail.com",
+      "password": "Password12345",
+      "created": "2018-12-08T09:43:38.484Z",
+      "updated": "2018-12-08T09:44:58.778Z",
+      "id": 1
+    },
+    {
+      "firstName": "Sateesh",
+      "lastName": "Kumar",
+      "email": "sateesh.kumar@gmail.com",
+      "password": "Password@123",
+      "created": "2018-12-08T09:46:30.293Z",
+      "updated": "2018-12-08T09:47:51.881Z",
+      "id": 2
+    },
+    {
+      "firstName": "Hanuman",
+      "lastName": "sai",
+      "email": "hanuman.sai@gmail.com",
+      "password": "Password12345",
+      "created": "2018-12-08T09:43:38.484Z",
+      "updated": "2018-12-08T09:44:58.778Z",
+      "id": 3
+    },
+    {
+      "firstName": "Rupa",
+      "lastName": "Kumar",
+      "email": "rupa.kumar@gmail.com",
+      "password": "Password@123",
+      "created": "2018-12-08T09:46:30.293Z",
+      "updated": "2018-12-08T09:47:51.881Z",
+      "id": 4
+    },
+    {
+      "firstName": "Pravallika",
+      "lastName": "Krishna",
+      "email": "pravallika.krishna@gmail.com",
+      "password": "Password12345",
+      "created": "2018-12-08T09:43:38.484Z",
+      "updated": "2018-12-08T09:44:58.778Z",
+      "id": 5
+    },
+    {
+      "firstName": "suresh",
+      "lastName": "Kumar",
+      "email": "suresh.kumar@gmail.com",
+      "password": "Password@123",
+      "created": "2018-12-08T09:46:30.293Z",
+      "updated": "2018-12-08T09:47:51.881Z",
+      "id": 6
+    },
+    {
+      "firstName": "sukumar",
+      "lastName": "borra",
+      "email": "sukumar.borra@gmail.com",
+      "password": "Password12345",
+      "created": "2018-12-08T09:43:38.484Z",
+      "updated": "2018-12-08T09:44:58.778Z",
+      "id": 7
+    },
+    {
+      "firstName": "suma",
+      "lastName": "monne",
+      "email": "sumamonne@yahoo.co.in",
+      "password": "SumaMonne123",
+      "created": "2018-12-08T09:53:53.340Z",
+      "updated": "2018-12-08T09:54:58.211Z",
+      "id": 8
+    },
+    {
+      "firstName": "Pavan",
+      "lastName": "komma",
+      "email": "komma.pavan@yahoo.co.in",
+      "password": "KommaPavan1",
+      "created": "2018-12-08T09:56:58.710Z",
+      "updated": "2018-12-08T09:56:58.710Z",
+      "id": 9
+    }
+  ]
+}
