@@ -24,7 +24,7 @@
     "ag-grid-angular": "^19.1.2",
     "ag-grid-community": "^19.1.4",
     "angular-in-memory-web-api": "^0.7.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "core-js": "^2.5.4",
     "ngx-password-toggle": "^1.0.3",
     "rxjs": "~6.3.3",
